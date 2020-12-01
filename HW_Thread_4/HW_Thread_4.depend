@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606844204 source:c:\users\≈√¿–\documents\cpp_hw\hw_thread_4\main.cpp
+	<iostream>
+	<iostream>
+	<thread>
+	<string>
+	<vector>
+	<ctime>
+	<array>
+	<chrono>
+	<exception>
+
